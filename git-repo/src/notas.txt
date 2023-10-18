@@ -1,0 +1,1 @@
+este es un archivo creado para notas XD, se agrego esta line para usar git diff
