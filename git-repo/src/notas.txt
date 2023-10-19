@@ -1,1 +1,2 @@
 este es un archivo creado para notas XD, se agrego esta line para usar git diff
+se agrego esta linea de texto en la nueva rama llamada newBranch
